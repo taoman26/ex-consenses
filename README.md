@@ -1,5 +1,5 @@
-# ex-consenses
-- Consenseのjsonファイルからページをキーワード抽出してテキスト出力します。
+# ex-cosenses
+- Cosenseのjsonファイルからページをキーワード抽出してテキスト出力します。
 - 動作環境はPython3です。
 - 使い方は以下の通り
     1. CosenseのサイトからJsonをエクスポートします
